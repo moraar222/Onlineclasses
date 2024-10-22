@@ -7,7 +7,7 @@ const Footer: React.FC = () => {
       <div className="container mx-auto px-4">
         <div className="flex flex-wrap justify-between">
           <div className="w-full md:w-1/3 mb-6 md:mb-0">
-            <h3 className="text-lg font-semibold mb-2">EduOnline</h3>
+            <h3 className="text-lg font-semibold mb-2">Online German Classes</h3>
             <p className="text-sm">
               Empowering learners worldwide through accessible online education.
             </p>
@@ -45,7 +45,7 @@ const Footer: React.FC = () => {
           </div>
         </div>
         <div className="mt-8 text-center text-sm">
-          <p>&copy; 2024 EduOnline. All rights reserved.</p>
+          <p>&copy; 2024 Danke Schon. All rights reserved.</p>
         </div>
       </div>
     </footer>
