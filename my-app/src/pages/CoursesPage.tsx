@@ -37,7 +37,7 @@ const CoursesPage: React.FC = () => {
                 <span>{course.duration}</span>
               </div>
               <Link to="/lesson" className="block w-full text-center bg-blue-600 text-white py-2 rounded-md hover:bg-blue-700 transition duration-300">
-                Enroll Now
+                Enroll 
               </Link>
             </div>
           </div>
