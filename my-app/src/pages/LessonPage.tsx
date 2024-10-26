@@ -28,7 +28,7 @@ const LessonPage: React.FC = () => {
             <div className="w-full md:w-1/2 px-2 mb-4">
               <div className="flex items-center">
                 <FileText className="text-blue-600 mr-2" size={20} />
-                <span>Transcript Available</span>
+                <span></span>
               </div>
             </div>
           </div>
